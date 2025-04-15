@@ -10,7 +10,7 @@
 
 **NOTA:** Esta configuración es a tu gusto, pero se recomienda.
 
-**3.-** Una vez que hayas desactivado la mayoría de los paneles, mostrando solo los paneles **'Sandbox'** y **'Visitantes'** activos, ve a tu Inicio, presiona el botón 'Editar' en el marco **'Sandbox'** y haz clic en la opción '**Editar HTML/CSS personalizado'.**
+**3.-** Una vez desactivado la mayoría de los paneles, mostrando solo los paneles **'Sandbox'** y **'Visitantes'** activos, ve a tu Inicio, presiona el botón 'Editar' en el marco **'Sandbox'** y haz clic en la opción '**Editar HTML/CSS personalizado'.**
 
 ![Introduce la descripción de la imagen aquí](http://userimages-akm.imvu.com/userdata/04/83/03/80/userpics/Snap_l7Algk2ds41742864529.jpg)
 
