@@ -6,7 +6,7 @@
 
 **1.-** Primero debes acceder a tu cuenta de IMVU a través del navegador ([Haz clic aquí](https://www.imvu.com/catalog/web_myaccount.php)).
 
-**2.-** Una vez dentro de la configuración de tu cuenta, ve al panel de visibilidad y configúralo de la siguiente manera:![Introduce la descripción de la imagen aquí](http://userimages-akm.imvu.com/userdata/04/83/03/80/userpics/Snap_JHTqw5YAoT1068764806.jpg)
+**2.-** Una vez dentro de la configuración de tu cuenta, ve al panel de visibilidad y configúralo de la siguiente manera:![Introduce la descripción de la imagen aquí](https://raw.githubusercontent.com/hectorbcn82/IMVU/refs/heads/main/Resources/Visivilidad%20Paneles.jpg)
 
 **NOTA:** Esta configuración es a tu gusto, pero se recomienda.
 
