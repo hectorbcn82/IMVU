@@ -12,7 +12,7 @@
 
 **3.-** Una vez que hayas desactivado la mayoría de los paneles, mostrando solo los paneles **'Sandbox'** y **'Visitantes'** activos, ve a tu Inicio, presiona el botón 'Editar' en el marco **'Sandbox'** y haz clic en la opción '**Editar HTML/CSS personalizado'.**
 
-![Introduce la descripción de la imagen aquí](http://userimages-akm.imvu.com/userdata/04/83/03/80/userpics/Snap_l7Algk2ds41742864529.jpg)
+![Introduce la descripción de la imagen aquí](https://raw.githubusercontent.com/hectorbcn82/IMVU/refs/heads/main/Resources/Edit.png)
 
 **4.-** Finalmente, si usas un dispositivo móvil o una computadora, abre el archivo **.html** con un bloc de notas o un documento de texto. Copia el contenido de la hoja de estilos, el contenido dentro de **<'Style'>** y el contenido dentro de **<'body'>** y pégalo en **'Editar HTML personalizado/ CSS'**, usa la opción de guardar y listo, tendrás una nueva plantilla. **(Ten en cuenta que, en ocasiones, es necesario ajustar o mover los paneles para que el diseño se ajuste a la estructura del código).**
 
