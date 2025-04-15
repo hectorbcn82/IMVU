@@ -17,6 +17,6 @@
 **4.-** Finalmente, si usas un dispositivo móvil o una computadora, abre el archivo **.html** con un bloc de notas o un documento de texto. Copia el contenido de la hoja de estilos, el contenido dentro de **<'Style'>** y el contenido dentro de **<'body'>** y pégalo en **'Editar HTML personalizado/ CSS'**, usa la opción de guardar y listo, tendrás una nueva plantilla. **(Ten en cuenta que, en ocasiones, es necesario ajustar o mover los paneles para que el diseño se ajuste a la estructura del código).**
 
 ## Ejemplo: (Selección en rojo)
-![Introduce la descripción de la imagen aquí](https://i.imgur.com/S4oybBZ.png)
+![Introduce la descripción de la imagen aquí](https://raw.githubusercontent.com/hectorbcn82/IMVU/refs/heads/main/Resources/Ejemplo.png)
 
 ----------------------------------------------------------------------------------
